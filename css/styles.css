@@ -11,7 +11,8 @@ body {
 }
 
 #title {
-    font-family: 'Silent Landfield', cursive;
+    font-family: 'Dancing Script', cursive; 
+    /* font-family: 'Shadows Into Light', cursive;  */
     font-size: 40px;
     color: #1b6197;
     margin: 0 0 20px;
@@ -19,6 +20,12 @@ body {
 
 #description {
     margin-bottom: 20px;
+}
+
+#heading {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: large;
 }
 
 #social {
